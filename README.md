@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/hamid.ensafi_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-ensafi-20a45721a/) 
----
+
 
 ## Github Status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamid-ensafi&show_icons=true&locale=en&layout=compact&theme=dark" alt="hamid-ensafi" /></p>
