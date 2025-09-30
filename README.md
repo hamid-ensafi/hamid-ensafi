@@ -7,9 +7,6 @@
 🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end<br>⚡ about me :Hi🙋🏻‍♀️I'm Hamid Ensafi 🥰 I try to become a frontend developer every day. I have the skills of Html, Css3, Sass, Flex, Grid,Bootstrap,JavaScript,React,React Package👩‍💻
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/hamid.ensafi_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-ensafi-20a45721a/) 
-
 
 
 # 💻 Tech Stack:
